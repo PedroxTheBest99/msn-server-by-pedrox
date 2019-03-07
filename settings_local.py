@@ -1,0 +1,5 @@
+DEBUG = True
+
+DEBUG_MSNP = True
+
+DEBUG_HTTP_REQUEST = True
